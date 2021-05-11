@@ -14996,6 +14996,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: deerparticles
       objectReference: {fileID: 0}
+    - target: {fileID: 3219751371782563307, guid: 618f99b99c50c5e46873185b1f7bf716, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b27789a7bd2f88644961ee158714a6ac, type: 2}
     - target: {fileID: 4464811318641323183, guid: 618f99b99c50c5e46873185b1f7bf716, type: 3}
       propertyPath: m_Name
       value: Deer
